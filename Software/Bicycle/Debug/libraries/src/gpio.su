@@ -1,0 +1,4 @@
+../libraries/src/gpio.c:9:6:GPIO_Start_Output	32	static
+../libraries/src/gpio.c:23:6:GPIO_Start_Input	24	static
+../libraries/src/gpio.c:29:6:GPIO_Write	24	static
+../libraries/src/gpio.c:42:9:GPIO_Read	16	static

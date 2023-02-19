@@ -1,0 +1,3 @@
+../Drivers/CMSIS/Include/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+../libraries/src/timer.c:10:6:TIM_Start	16	static
+../libraries/src/timer.c:24:6:TIM2_IRQHandler	8	static

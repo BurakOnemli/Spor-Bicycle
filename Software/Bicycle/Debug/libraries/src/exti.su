@@ -1,0 +1,4 @@
+../Drivers/CMSIS/Include/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+../Drivers/CMSIS/Include/core_cm0plus.h:848:22:__NVIC_SetPriority	24	static
+../libraries/src/exti.c:10:6:EXTI_Start	8	static
+../libraries/src/exti.c:20:6:EXTI0_1_IRQHandler	8	static
